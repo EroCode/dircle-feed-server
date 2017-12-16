@@ -1,0 +1,5 @@
+{
+  "port":8080,
+  "devPort":3000,
+  "dbUrl":"mongodb://localhost/test"
+}
